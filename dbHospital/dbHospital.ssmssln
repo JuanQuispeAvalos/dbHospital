@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "dbHospital", "dbHospital\dbHospital.ssmssqlproj", "{3BE6CAD4-76B4-4DFE-BBBC-3E4A0CE54055}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Estructura", "Estructura\Estructura.ssmssqlproj", "{0A0BE2B8-4349-4612-B90E-0E40ECA727F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE6CAD4-76B4-4DFE-BBBC-3E4A0CE54055}.Default|Default.ActiveCfg = Default
+		{0A0BE2B8-4349-4612-B90E-0E40ECA727F0}.Default|Default.ActiveCfg = Default
+		{8F63908F-B374-4406-9AA5-75C9B2877568}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
